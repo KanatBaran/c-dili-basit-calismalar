@@ -27,3 +27,7 @@ Bu depo, üniversite yıllarında C dilinde geliştirdiğim temel algoritma ve p
 | `sayiya-karsilik-gelen-gunu-bulma-c-dili-main`                   | 1–7 arası girilen sayıya karşılık gelen haftanın gününü gösterme    |
 | `tekmi-ciftmi-ogrenme-c-dili-main`                               | Girilen sayının tek mi çift mi olduğunu öğrenme                     |
 | `vize-final-notu-hesaplama-c-dili-main`                          | Vize ve final notuyla başarı ortalamasını hesaplama                 |
+
+## 📬 Contact
+- LinkedIn: [Baran Kanat](https://www.linkedin.com/in/baran-kanat)
+
